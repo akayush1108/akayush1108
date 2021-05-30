@@ -34,6 +34,8 @@ I'm Ayush Anand 2nd year IT student at Dr B C Roy Engineering College Durgapur
 
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> [Visit website](https://www.facebook.com/akayush1108/ "LCO")
 
+<img src="https://img.shields.io/badge/CodeChef-783F04?style=for-the-badge&logo=CodeChef&logoColor=white" /> [Visit website](https://www.codechef.com/users/akayush1108/ "LCO")
+
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> [Visit website](https://www.hackerrank.com/akayush1108 "LCO")
 
 <br>
