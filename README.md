@@ -33,13 +33,13 @@ I'm Ayush Anand 3rd year IT student at Dr B C Roy Engineering College Durgapur
 
 ### Social
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> [Visit website](https://www.linkedin.com/in/akayush1108/ "LCO") 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> [akayush1108](https://www.linkedin.com/in/akayush1108/ "LCO") 
 
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> [Visit website](https://www.facebook.com/akayush1108/ "LCO")
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> [akayush1108](https://www.facebook.com/akayush1108/ "LCO")
 
-<img src="https://img.shields.io/badge/CodeChef-783F04?style=for-the-badge&logo=CodeChef&logoColor=white" /> [Visit website](https://www.codechef.com/users/akayush1108/ "LCO")
+<img src="https://img.shields.io/badge/CodeChef-783F04?style=for-the-badge&logo=CodeChef&logoColor=white" /> [akayush1108](https://www.codechef.com/users/akayush1108/ "LCO")
 
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> [Visit website](https://www.hackerrank.com/akayush1108 "LCO")
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> [akayush1108](https://www.hackerrank.com/akayush1108 "LCO")
 
 <br>
 
