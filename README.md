@@ -15,7 +15,7 @@ I'm Ayush Anand 3rd year IT student at Dr B C Roy Engineering College Durgapur
 
 
 
-<!-- <a href="https://github.com/akayush1108/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akayush1108&layout=compact&theme=material-palenight" /></a> -->
+<a href="https://github.com/akayush1108/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akayush1108&layout=compact&theme=material-palenight" /></a>
 
 <br>
 
