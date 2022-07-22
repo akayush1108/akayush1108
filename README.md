@@ -1,7 +1,7 @@
 ## <p align="right">![](https://komarev.com/ghpvc/?username=akayush1108&color=red)</p> Hi there 
 
 
-I'm Ayush Anand 3rd year IT student at Dr B C Roy Engineering College Durgapur. Like to explore new technologies every day. Passionate about coding and Interested to Build android application.
+I'm Ayush Anand final year IT student at Dr B C Roy Engineering College Durgapur. Like to explore new technologies every day. Passionate about coding and Interested to Build android application.
 <br><br>
 <a href="https://github.com/S3RP3NT/github-readme-stats">
 <img align="center" SRC="https://github-readme-stats.vercel.app/api?username=akayush1108&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight"/>
