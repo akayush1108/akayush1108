@@ -2,6 +2,9 @@
 
 
 I'm Ayush Anand final year IT student at Dr B C Roy Engineering College Durgapur. Like to explore new technologies every day. Passionate about coding and App development.
+
+[My portfolio](https://akayush1108.github.io/Portfolio/ "LCO")
+
 <br><br>
 <a href="https://github.com/akayush1108/github-readme-stats">
 <img align="center" SRC="https://github-readme-stats.vercel.app/api?username=akayush1108&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight"/>
