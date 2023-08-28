@@ -1,7 +1,7 @@
 ## <p align="right">![](https://komarev.com/ghpvc/?username=akayush1108&color=red)</p> Hi there 
 
 
-I'm Ayush Anand IT undergraduate from Dr B C Roy Engineering College, Durgapur. Passionate about coding and App development. Like to explore new technologies every day.
+I'm Ayush Anand IT graduate from Dr B C Roy Engineering College, Durgapur. Passionate about coding and App development. Like to explore new technologies every day.
 
 [My portfolio](https://akayush1108.github.io/Portfolio/ "LCO")
 
